@@ -1,4 +1,4 @@
-# Copyright 2025 Automate the Cloud Inc.
+# Copyright 2026 Automate the Cloud Inc.
 # SPDX-License-Identifier: Apache-2.0
 
 # A transit gateway, a VPC, its subnets and a route table created in the same run as the
